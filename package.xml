@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+    <name>Cartin24_DeleteOrders</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>Academic Free License (AFL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Simple tool for deleting Magento orders. Easy to delete order(s) through backend.&#xD;
+</summary>
+    <description>Simple tool for deleting Magento orders. Easy to delete order(s) through backend &#xD;
+</description>
+    <notes>Simple tool for deleting Magento orders. Easy to delete order(s) through backend.&#xD;
+</notes>
+    <authors><author><name>Cartin24</name><user>Cartin24</user><email>developer@cartin24.com</email></author></authors>
+    <date>2015-03-12</date>
+    <time>16:31:56</time>
+    <contents><target name="magecommunity"><dir name="Cartin24"><dir name="Deleteorders"><dir name="Block"><dir name="Adminhtml"><dir name="Sales"><dir name="Order"><file name="Grid.php" hash="9d279d3e4b3e683c2c0831f611ed3ade"/><file name="Grid.php~" hash="9d279d3e4b3e683c2c0831f611ed3ade"/><dir name="Render"><file name="Delete.php" hash="9897b82e35c0bfd1a8021b8180562146"/><file name="Delete.php~" hash="9897b82e35c0bfd1a8021b8180562146"/></dir><file name="View.php" hash="41f11d4e4de9246dbc2eaa41c1f1e0bb"/><file name="View.php~" hash="17268c6f1045692d10f56dfb7255a591"/></dir></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="1fbf793cd3d6e49e02a7ae564d0a9989"/><file name="Data.php~" hash="9ee8969bbaac11a200749ba59cc9f819"/></dir><dir name="controllers"><dir name="Adminhtml"><file name="DeleteorderController.php~" hash="d122052f7bd65086ced94573b7565fba"/><file name="DeleteordersController.php" hash="6cf070dc73ca16acf3d58eab3b90afac"/><file name="DeleteordersController.php~" hash="6cf070dc73ca16acf3d58eab3b90afac"/></dir></dir><dir name="etc"><file name="config.xml" hash="9dc350c086e3a8a97f09be47ede1a1fc"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Cartin24_Deleteorders.xml" hash="708bf42ccb04cc6e447509b07346d359"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

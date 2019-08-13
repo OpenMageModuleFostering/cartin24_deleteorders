@@ -1,0 +1,17 @@
+{
+    "name": "OpenMageModuleFostering/Cartin24_DeleteOrders",
+    "type": "magento-module",
+    "license": "Academic-Free-License-(AFL)",
+    "homepage": "",
+    "description": "Simple tool for deleting Magento orders. Easy to delete order(s) through backend.
+",
+    "authors": [
+    {
+        "name": "Cartin24",
+        "email": "developer@cartin24.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
